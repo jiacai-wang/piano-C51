@@ -1,3 +1,9 @@
+/*
+ * Coded by 王家才
+ * For Miss TL.
+*/
+
+
 #include"reg52.h"
 #include"freqtab.h"
 #include"music.h"
